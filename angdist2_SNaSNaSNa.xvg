@@ -1,0 +1,30 @@
+# This file was created Thu Apr 27 15:45:05 2017
+# by the following command:
+# g_angle_mpi -n angles2_SNa.ndx -f traj_cg.xtc -od angdist2_SNa.xvg 
+#
+# g_angle_mpi is part of G R O M A C S:
+#
+# GROningen MAchine for Chemical Simulation
+#
+@    title "Angle Distribution: angles"
+@    xaxis  label "Degrees"
+@    yaxis  label ""
+@TYPE xy
+@    subtitle "average angle: 60\So\N"
+        53    0.000000
+        54    0.000007
+        55    0.000430
+        56    0.007013
+        57    0.047034
+        58    0.147133
+        59    0.230520
+        60    0.208967
+        61    0.153127
+        62    0.111248
+        63    0.064524
+        64    0.023858
+        65    0.005346
+        66    0.000734
+        67    0.000056
+        68    0.000004
+        69    0.000000
