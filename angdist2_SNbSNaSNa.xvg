@@ -1,0 +1,30 @@
+# This file was created Tue May  9 11:35:19 2017
+# by the following command:
+# g_angle_mpi -n ndx_files/angles2_SNbSNaSNa.ndx -f traj_cg.xtc -od angdist2_SNbSNaSNa.xvg 
+#
+# g_angle_mpi is part of G R O M A C S:
+#
+# Gnomes, ROck Monsters And Chili Sauce
+#
+@    title "Angle Distribution: angles"
+@    xaxis  label "Degrees"
+@    yaxis  label ""
+@TYPE xy
+@    subtitle "average angle: 60.4038\So\N"
+        53    0.000000
+        54    0.000006
+        55    0.000452
+        56    0.006696
+        57    0.040770
+        58    0.116867
+        59    0.178029
+        60    0.182855
+        61    0.177799
+        62    0.156062
+        63    0.095558
+        64    0.035701
+        65    0.008016
+        66    0.001101
+        67    0.000083
+        68    0.000006
+        69    0.000000

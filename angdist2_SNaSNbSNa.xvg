@@ -1,0 +1,27 @@
+# This file was created Tue May  9 11:30:29 2017
+# by the following command:
+# g_angle_mpi -n ndx_files/angles2_SNaSNbSNa.ndx -f traj_cg.xtc -od angdist2_SNaSNbSNa.xvg 
+#
+# g_angle_mpi is part of G R O M A C S:
+#
+# Great Red Oystrich Makes All Chemists Sane
+#
+@    title "Angle Distribution: angles"
+@    xaxis  label "Degrees"
+@    yaxis  label ""
+@TYPE xy
+@    subtitle "average angle: 59.1927\So\N"
+        53    0.000000
+        54    0.000011
+        55    0.000387
+        56    0.007647
+        57    0.059562
+        58    0.207666
+        59    0.335501
+        60    0.261192
+        61    0.103782
+        62    0.021620
+        63    0.002456
+        64    0.000171
+        65    0.000007
+        66    0.000000
